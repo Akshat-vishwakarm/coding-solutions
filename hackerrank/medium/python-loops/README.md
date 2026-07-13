@@ -1,4 +1,4 @@
-# Python: Division
+# Loops
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -40,14 +40,14 @@ Print $n$ lines, one corresponding to each $i$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-13T13:59:12.998Z  
+**Submitted:** 2026-07-13T14:04:15.117Z  
 
 ```py
 if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
-    print(a//b)
-    print(a/b)
+    n = int(input())
+    for i in range(0,n):
+        i=i*i
+        print(i)
 
 ```
 
