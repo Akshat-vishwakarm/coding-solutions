@@ -32,7 +32,7 @@ Print `Weird` if the number is weird.  Otherwise, print `Not Weird`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T18:21:00.487Z  
+**Submitted:** 2026-07-16T18:21:02.830Z  
 
 ```py
 n=int(input ())
