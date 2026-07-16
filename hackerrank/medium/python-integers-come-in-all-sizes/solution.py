@@ -1,4 +1,7 @@
-n=int(input())
-k=n+1
-for i in range(1,k):
-    print(i,end="")
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+result=(a**b)+(c**d)
+print(result)
