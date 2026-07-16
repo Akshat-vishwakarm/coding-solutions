@@ -49,7 +49,7 @@ Print the result of $a^b + c^d$ on one line.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T15:13:24.684Z  
+**Submitted:** 2026-07-16T16:57:16.623Z  
 
 ```py
 # Enter your code here. Read input from STDIN. Print output to STDOUT
