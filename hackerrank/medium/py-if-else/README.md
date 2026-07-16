@@ -1,4 +1,4 @@
-# Say "Hello, World!" With Python
+# Python If-Else
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -32,10 +32,19 @@ Print `Weird` if the number is weird.  Otherwise, print `Not Weird`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-13T17:47:30.948Z  
+**Submitted:** 2026-07-16T18:21:00.487Z  
 
 ```py
-print("Hello, World!")
+n=int(input ())
+if n%2==0:
+    if n in range(2,6):
+        print("Not Weird")
+    elif n in range(6,21):
+        print("Weird")
+    elif n>20:
+        print("Not Weird")
+else:
+    print("Weird")
 
 ```
 
