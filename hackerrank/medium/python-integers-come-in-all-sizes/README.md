@@ -1,4 +1,4 @@
-# Print Function
+# Integers Come In All Sizes
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -49,13 +49,16 @@ Print the result of $a^b + c^d$ on one line.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T15:10:31.320Z  
+**Submitted:** 2026-07-16T15:13:24.684Z  
 
 ```py
-n=int(input())
-k=n+1
-for i in range(1,k):
-    print(i,end="")
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+result=(a**b)+(c**d)
+print(result)
 
 ```
 
