@@ -56,7 +56,7 @@ Print the sum of the three numbers on a single line.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-19T18:30:00.167Z  
+**Submitted:** 2026-07-19T18:30:52.555Z  
 
 ```cpp
 #include <iostream>
